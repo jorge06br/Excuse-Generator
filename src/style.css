@@ -2,8 +2,9 @@ h1{
     text-decoration: solid;
     font-family:Helvetica;
 }
-i{
-    justify-content: center;
+button{
+margin-left: 50%;
+margin-right: 50%;
 }
 .excuse-box{
     margin: 0;

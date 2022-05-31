@@ -1,8 +1,8 @@
 /* eslint-disable */
 
 window.onload = () => {
-  document.document.querySelector("#excuse").innerHTML = concat();
-  que;
+  document.querySelector("#excuse").innerHTML = concat();
+
   function concat() {
     let who = ["El gato", "Mi sobrino", "El chocoyo", "La vecina"];
     let what = ["destruyo", "rompio", "perdio", "robo"];
